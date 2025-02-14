@@ -1,0 +1,37 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #ffe6f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.carta {
+    background-color: #fff;
+    border: 2px solid #ff6699;
+    border-radius: 15px;
+    padding: 25px;
+    width: 450px;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #ff3366;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+.mensaje {
+    font-size: 16px;
+    color: #333;
+    line-height: 1.8;
+}
+
+.firma {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ff3366;
+}
